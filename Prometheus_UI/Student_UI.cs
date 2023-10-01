@@ -48,6 +48,8 @@ namespace Prometheus_UI
         /// Mask the password
         /// </summary>
         /// <returns>String of password</returns>
+        /// testing
+    
         static string GetPassword()
         {
             var pass = string.Empty;
