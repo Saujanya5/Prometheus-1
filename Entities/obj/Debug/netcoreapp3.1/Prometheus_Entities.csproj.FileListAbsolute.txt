@@ -1,0 +1,9 @@
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Entities\bin\Debug\netcoreapp3.1\Prometheus_Entities.deps.json
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Entities\bin\Debug\netcoreapp3.1\Prometheus_Entities.dll
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Entities\bin\Debug\netcoreapp3.1\Prometheus_Entities.pdb
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Entities\obj\Debug\netcoreapp3.1\Prometheus_Entities.csproj.AssemblyReference.cache
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Entities\obj\Debug\netcoreapp3.1\Prometheus_Entities.AssemblyInfoInputs.cache
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Entities\obj\Debug\netcoreapp3.1\Prometheus_Entities.AssemblyInfo.cs
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Entities\obj\Debug\netcoreapp3.1\Prometheus_Entities.csproj.CoreCompileInputs.cache
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Entities\obj\Debug\netcoreapp3.1\Prometheus_Entities.dll
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Entities\obj\Debug\netcoreapp3.1\Prometheus_Entities.pdb

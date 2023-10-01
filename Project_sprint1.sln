@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prometheus_Exceptions", "Exceptions\Prometheus_Exceptions.csproj", "{E331070A-01CC-45F4-9F1E-D47803D49DE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prometheus_Entities", "Entities\Prometheus_Entities.csproj", "{D4001EE4-8C71-4755-B01A-30EFA08CFD05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prometheus_BL", "Prometheus_BL\Prometheus_BL.csproj", "{F629C5D9-76DB-4310-ADCE-9431FDC3C5B6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E331070A-01CC-45F4-9F1E-D47803D49DE7} = {E331070A-01CC-45F4-9F1E-D47803D49DE7}
+		{D4001EE4-8C71-4755-B01A-30EFA08CFD05} = {D4001EE4-8C71-4755-B01A-30EFA08CFD05}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prometheus_UI", "Prometheus_UI\Prometheus_UI.csproj", "{882AE91E-CEB6-48AC-BFFA-E02809897DE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prometheus_DAL", "Prometheus_DAL\Prometheus_DAL.csproj", "{5A042C92-E3B6-495D-BCA3-691EC1501A39}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E331070A-01CC-45F4-9F1E-D47803D49DE7} = {E331070A-01CC-45F4-9F1E-D47803D49DE7}
+		{D4001EE4-8C71-4755-B01A-30EFA08CFD05} = {D4001EE4-8C71-4755-B01A-30EFA08CFD05}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E331070A-01CC-45F4-9F1E-D47803D49DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E331070A-01CC-45F4-9F1E-D47803D49DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E331070A-01CC-45F4-9F1E-D47803D49DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E331070A-01CC-45F4-9F1E-D47803D49DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4001EE4-8C71-4755-B01A-30EFA08CFD05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4001EE4-8C71-4755-B01A-30EFA08CFD05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4001EE4-8C71-4755-B01A-30EFA08CFD05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4001EE4-8C71-4755-B01A-30EFA08CFD05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F629C5D9-76DB-4310-ADCE-9431FDC3C5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F629C5D9-76DB-4310-ADCE-9431FDC3C5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F629C5D9-76DB-4310-ADCE-9431FDC3C5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F629C5D9-76DB-4310-ADCE-9431FDC3C5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882AE91E-CEB6-48AC-BFFA-E02809897DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882AE91E-CEB6-48AC-BFFA-E02809897DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882AE91E-CEB6-48AC-BFFA-E02809897DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882AE91E-CEB6-48AC-BFFA-E02809897DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A042C92-E3B6-495D-BCA3-691EC1501A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A042C92-E3B6-495D-BCA3-691EC1501A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A042C92-E3B6-495D-BCA3-691EC1501A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A042C92-E3B6-495D-BCA3-691EC1501A39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EE17D36-D782-4921-B979-45C1719EF7CC}
+	EndGlobalSection
+EndGlobal

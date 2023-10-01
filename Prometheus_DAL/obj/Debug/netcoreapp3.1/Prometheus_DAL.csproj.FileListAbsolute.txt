@@ -1,0 +1,14 @@
+C:\Users\Navpreet Singh\source\repos\Prometheus\Prometheus_DAL\obj\Debug\netcoreapp3.1\Prometheus_DAL.csproj.AssemblyReference.cache
+C:\Users\Navpreet Singh\source\repos\Prometheus\Prometheus_DAL\obj\Debug\netcoreapp3.1\Prometheus_DAL.AssemblyInfoInputs.cache
+C:\Users\Navpreet Singh\source\repos\Prometheus\Prometheus_DAL\obj\Debug\netcoreapp3.1\Prometheus_DAL.AssemblyInfo.cs
+C:\Users\Navpreet Singh\source\repos\Prometheus\Prometheus_DAL\obj\Debug\netcoreapp3.1\Prometheus_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Navpreet Singh\source\repos\Prometheus\Prometheus_DAL\bin\Debug\netcoreapp3.1\Prometheus_DAL.deps.json
+C:\Users\Navpreet Singh\source\repos\Prometheus\Prometheus_DAL\bin\Debug\netcoreapp3.1\Prometheus_DAL.dll
+C:\Users\Navpreet Singh\source\repos\Prometheus\Prometheus_DAL\bin\Debug\netcoreapp3.1\Prometheus_DAL.pdb
+C:\Users\Navpreet Singh\source\repos\Prometheus\Prometheus_DAL\obj\Debug\netcoreapp3.1\Prometheus_DAL.csproj.CopyComplete
+C:\Users\Navpreet Singh\source\repos\Prometheus\Prometheus_DAL\obj\Debug\netcoreapp3.1\Prometheus_DAL.dll
+C:\Users\Navpreet Singh\source\repos\Prometheus\Prometheus_DAL\obj\Debug\netcoreapp3.1\Prometheus_DAL.pdb
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Prometheus_DAL\bin\Debug\netcoreapp3.1\Prometheus_Entities.dll
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Prometheus_DAL\bin\Debug\netcoreapp3.1\Prometheus_Entities.pdb
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Prometheus_DAL\bin\Debug\netcoreapp3.1\Prometheus_Exceptions.dll
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Prometheus_DAL\bin\Debug\netcoreapp3.1\Prometheus_Exceptions.pdb

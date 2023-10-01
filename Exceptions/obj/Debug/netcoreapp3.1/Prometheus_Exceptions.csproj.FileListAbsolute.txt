@@ -1,0 +1,9 @@
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Exceptions\bin\Debug\netcoreapp3.1\Prometheus_Exceptions.deps.json
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Exceptions\bin\Debug\netcoreapp3.1\Prometheus_Exceptions.dll
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Exceptions\bin\Debug\netcoreapp3.1\Prometheus_Exceptions.pdb
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Exceptions\obj\Debug\netcoreapp3.1\Prometheus_Exceptions.csproj.AssemblyReference.cache
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Exceptions\obj\Debug\netcoreapp3.1\Prometheus_Exceptions.AssemblyInfoInputs.cache
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Exceptions\obj\Debug\netcoreapp3.1\Prometheus_Exceptions.AssemblyInfo.cs
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Exceptions\obj\Debug\netcoreapp3.1\Prometheus_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Exceptions\obj\Debug\netcoreapp3.1\Prometheus_Exceptions.dll
+C:\Users\Navpreet Singh\Source\Repos\Prometheus\Exceptions\obj\Debug\netcoreapp3.1\Prometheus_Exceptions.pdb

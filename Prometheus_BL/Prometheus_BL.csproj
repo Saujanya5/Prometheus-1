@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ConsoleTables" Version="2.4.2" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\Prometheus_Entities.csproj" />
+    <ProjectReference Include="..\Exceptions\Prometheus_Exceptions.csproj" />
+    <ProjectReference Include="..\Prometheus_DAL\Prometheus_DAL.csproj" />
+  </ItemGroup>
+
+</Project>
